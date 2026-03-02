@@ -30,9 +30,4 @@ I’m a frontend developer passionate about building clean, responsive, and user
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30"/>
 </a>
 
-## 📊 My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelAdebayo01&show_icons=true&theme=default)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamuelAdebayo01)
