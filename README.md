@@ -14,6 +14,7 @@ I’m a frontend developer passionate about building clean, responsive, and user
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs" />
 
 ## 🌐 Socials
-- GitHub: https://github.com/yourusername
-- Twitter/X: https://x.com/yourhandle
-- LinkedIn: https://linkedin.com/in/yourname
+- GitHub: https://github.com/SamuelAdebayo01
+- Twitter/X: [https://x.com/yourhandle](https://x.com/sliimix?s=21)
+- LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/samueladebayo1?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- Instagram: https://www.instagram.com/_sliimi_?igsh=Y2I2aGJqajl5bHY3
