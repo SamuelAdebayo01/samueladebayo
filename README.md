@@ -16,6 +16,9 @@ I’m a frontend developer passionate about building clean, responsive, and user
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![React](https://img.shields.io/badge/React-61DAFB)
 
+## Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs" />
+
 ## 🌐 Socials
 - GitHub: https://github.com/yourusername
 - Twitter/X: https://x.com/yourhandle
