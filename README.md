@@ -1,4 +1,4 @@
-# SamuelAdebayo
+# Samuel Adebayo
 
 # Hi 👋 My name is Samuel Adebayo
 
