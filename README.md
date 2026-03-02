@@ -7,8 +7,8 @@
 I’m a frontend developer passionate about building clean, responsive, and user-friendly web applications.
 
 - 🌍 Based in Lagos, Nigeria
-- ✉️ Contact me at: adebs7871@gmail.com
-- 🤝 Open to collaborations
+- ✉️ You can contact me at adebs7871@gmail.com
+- 🤝 I'm open to collaborating on Interesting/Challenging projects
 
 ## 🛠 Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs" />
