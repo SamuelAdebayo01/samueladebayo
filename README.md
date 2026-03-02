@@ -13,7 +13,7 @@ I’m a frontend developer passionate about building clean, responsive, and user
 ## 🛠 Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs" />
 
-- ## 🌐 Socials
+## Socials
 <a href="https://github.com/SamuelAdebayo01">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30"/>
 </a>
